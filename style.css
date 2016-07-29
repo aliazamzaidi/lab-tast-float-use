@@ -1,0 +1,37 @@
+.box{
+    width: 15%;
+    height: 380px;
+    background-color: red;
+    float: left;
+    margin: 20px;
+    overflow-y: scroll;
+}
+.alternate{
+   margin-top: 20%;
+}
+div:hover{
+color: black;
+background-color: grey;
+}
+div{
+    color: red;
+}
+/*.margin{
+    margin-left: 2%;
+}
+.overflow{
+    overflow-y: scroll;
+}
+.box:hover{
+    color: black;
+}
+p{
+    color: red;
+}
+p:hover{
+    color: black;
+}
+.box:hover{
+    background-color: grey;
+    color: black; 
+}*/
